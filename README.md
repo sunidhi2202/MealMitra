@@ -1,4 +1,5 @@
 Meal Mitra
+tools used : Figma , Adobe Illustrator, Html, CSS
 Meal Mitra is a web platform dedicated to reducing hunger and food waste by connecting surplus food from donors to individuals and communities in need. The platform facilitates food donations from events, restaurants, grocery stores, and households to those who lack reliable access to nutritious meals.
 
 Objectives
